@@ -1,0 +1,3 @@
+echo "Author: Thanchira Mueangsaen" >> Startfile.txt
+git status
+Author: Thanchira Mueangsaen
